@@ -1,0 +1,3 @@
+streamlit
+ecdsa
+base58
